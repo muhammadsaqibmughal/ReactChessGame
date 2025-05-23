@@ -6,20 +6,20 @@ ChessMaster is an interactive, feature-rich chess game built with React, offerin
 ## 🚀 Features
 **Single-Player Mode:** Play against an AI opponent with adjustable difficulty levels, powered by intelligent move evaluation.<br>
 **Two-Player Mode:** Enjoy head-to-head matches on the same device, perfect for local multiplayer.<br>
-**Persistent State: **Game progress is saved to localStorage, allowing you to resume exactly where you left off after a page refresh.
-**Pawn Promotion:** Seamlessly handle pawn promotions with an intuitive dialog for selecting pieces (queen, rook, bishop, knight).
-**Score Tracking:** Keep track of captured pieces with a scoring system based on piece values.
-**Game Status Updates:** Real-time feedback on check, checkmate, stalemate, or draw conditions.
-**Drag-and-Drop Interface:** Move pieces with smooth drag-and-drop or click-based controls, built with react-chessboard.
-**Responsive Design:** Play on desktop or mobile with a clean, modern UI.
-**Error Handling:** Robust error handling ensures a stable experience even with unexpected inputs or edge cases.
+**Persistent State: **Game progress is saved to localStorage, allowing you to resume exactly where you left off after a page refresh.<br>
+**Pawn Promotion:** Seamlessly handle pawn promotions with an intuitive dialog for selecting pieces (queen, rook, bishop, knight).<br>
+**Score Tracking:** Keep track of captured pieces with a scoring system based on piece values.<br>
+**Game Status Updates:** Real-time feedback on check, checkmate, stalemate, or draw conditions.<br>
+**Drag-and-Drop Interface:** Move pieces with smooth drag-and-drop or click-based controls, built with react-chessboard.<br>
+**Responsive Design:** Play on desktop or mobile with a clean, modern UI.<br>
+**Error Handling:** Robust error handling ensures a stable experience even with unexpected inputs or edge cases.<br>
 ## 🛠️ Technologies Used
-**React:** Frontend framework for building a dynamic and responsive UI.
-**chess.js:** Chess logic library for move validation, board state management, and FEN (Forsyth-Edwards Notation) handling.
-**react-chessboard:** Component for rendering an interactive chessboard.
-**localStorage:** Persists game state (board position, scores, mode, etc.) across sessions.
-**JavaScript (ES6+):** Core programming language for game logic and state management.
-**CSS:** Custom styles for a polished and user-friendly interface.
+**React:** Frontend framework for building a dynamic and responsive UI.<br>
+**chess.js:** Chess logic library for move validation, board state management, and FEN (Forsyth-Edwards Notation) handling.<br>
+**react-chessboard:** Component for rendering an interactive chessboard.<br>
+**localStorage:** Persists game state (board position, scores, mode, etc.) across sessions.<br>
+**JavaScript (ES6+):** Core programming language for game logic and state management.<br>
+**CSS:** Custom styles for a polished and user-friendly interface.<br>
 ## 🎮 Getting Started
 Prerequisites
 Node.js (v16 or higher)
