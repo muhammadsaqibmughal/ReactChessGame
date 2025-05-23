@@ -4,22 +4,22 @@
 ChessMaster is an interactive, feature-rich chess game built with React, offering both single-player (vs. AI) and two-player modes. With a sleek UI, persistent game state using localStorage, and robust game logic powered by chess.js, this project delivers a seamless chess experience for casual players and enthusiasts alike. Whether you're challenging the computer at varying difficulty levels or competing against a friend, ChessMaster combines modern web technologies with classic gameplay.
 
 ## 🚀 Features
-### Single-Player Mode: Play against an AI opponent with adjustable difficulty levels, powered by intelligent move evaluation.
-### Two-Player Mode: Enjoy head-to-head matches on the same device, perfect for local multiplayer.
-### Persistent State: Game progress is saved to localStorage, allowing you to resume exactly where you left off after a page refresh.
-### Pawn Promotion: Seamlessly handle pawn promotions with an intuitive dialog for selecting pieces (queen, rook, bishop, knight).
-### Score Tracking: Keep track of captured pieces with a scoring system based on piece values.
-### Game Status Updates: Real-time feedback on check, checkmate, stalemate, or draw conditions.
-### Drag-and-Drop Interface: Move pieces with smooth drag-and-drop or click-based controls, built with react-chessboard.
-### Responsive Design: Play on desktop or mobile with a clean, modern UI.
-### Error Handling: Robust error handling ensures a stable experience even with unexpected inputs or edge cases.
+**Single-Player Mode:** Play against an AI opponent with adjustable difficulty levels, powered by intelligent move evaluation.
+**Two-Player Mode:** Enjoy head-to-head matches on the same device, perfect for local multiplayer.
+**Persistent State: **Game progress is saved to localStorage, allowing you to resume exactly where you left off after a page refresh.
+**Pawn Promotion:** Seamlessly handle pawn promotions with an intuitive dialog for selecting pieces (queen, rook, bishop, knight).
+**Score Tracking: **Keep track of captured pieces with a scoring system based on piece values.
+**Game Status Updates:** Real-time feedback on check, checkmate, stalemate, or draw conditions.
+**Drag-and-Drop Interface:** Move pieces with smooth drag-and-drop or click-based controls, built with react-chessboard.
+**Responsive Design:** Play on desktop or mobile with a clean, modern UI.
+**Error Handling:** Robust error handling ensures a stable experience even with unexpected inputs or edge cases.
 ## 🛠️ Technologies Used
-### React: Frontend framework for building a dynamic and responsive UI.
-### chess.js: Chess logic library for move validation, board state management, and FEN (Forsyth-Edwards Notation) handling.
-### react-chessboard: Component for rendering an interactive chessboard.
-### localStorage: Persists game state (board position, scores, mode, etc.) across sessions.
-### JavaScript (ES6+): Core programming language for game logic and state management.
-### CSS: Custom styles for a polished and user-friendly interface.
+**React:** Frontend framework for building a dynamic and responsive UI.
+**chess.js: **Chess logic library for move validation, board state management, and FEN (Forsyth-Edwards Notation) handling.
+**react-chessboard:** Component for rendering an interactive chessboard.
+**localStorage: **Persists game state (board position, scores, mode, etc.) across sessions.
+**JavaScript (ES6+):** Core programming language for game logic and state management.
+**CSS:** Custom styles for a polished and user-friendly interface.
 ## 🎮 Getting Started
 Prerequisites
 Node.js (v16 or higher)
