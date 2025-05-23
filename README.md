@@ -21,44 +21,47 @@ ChessMaster is an interactive, feature-rich chess game built with React, offerin
 **JavaScript (ES6+):** Core programming language for game logic and state management.<br>
 **CSS:** Custom styles for a polished and user-friendly interface.<br>
 ## 🎮 Getting Started
-Prerequisites
-Node.js (v16 or higher)
-npm or yarn
-Installation
+Prerequisites<br>
+Node.js (v16 or higher)<br>
+npm or yarn<br>
 
-## Clone the repository:
-bash
+**Installation<br>**<br>
 
-`git clone https://github.com/muhammadsaqibmughal/reactchessgame.git`
-Navigate to the project directory:
-bash
+Clone the repository:<br>
+bash<br>
+`git clone https://github.com/muhammadsaqibmughal/reactchessgame.git`<br>
 
-`cd chessmaster`
-Install dependencies:
-bash
+Navigate to the project directory:<br>
+bash<br>
+`cd chessmaster`<br>
 
+Install dependencies:<br>
+bash<br>
 `npm install`
-Start the development server:
-bash
 
-`npm start`
-Open http://localhost:3000 in your browser to start playing!
+Start the development server:<br>
+bash<br>
+`npm start`<br>
+
+Open http://localhost:3000 in your browser to start playing!<br>
 
 
 ## 🧠 How It Works
-Game State Management: Uses React hooks (useState, useEffect) to manage the game state, including board position (fen), scores, and game mode.
-Persistence: Saves the entire game state to localStorage after every move, ensuring seamless resumption after a refresh.
-AI Opponent: Implements a computer player with configurable difficulty, leveraging chess.js for legal move generation and evaluation.
-UI/UX: Combines react-chessboard for the board and custom components for mode selection, game status, and popups.
-## 🤝 Contributing
-Contributions are welcome! Whether it's adding new features, fixing bugs, or improving the AI, your input can make ChessMaster even better. To contribute:
+**Game State Management:** Uses React hooks (useState, useEffect) to manage the game state, including board position (fen), scores, and game mode.<br>
+**Persistence:** Saves the entire game state to localStorage after every move, ensuring seamless resumption after a refresh.<br>
+**AI Opponent:** Implements a computer player with configurable difficulty, leveraging chess.js for legal move generation and evaluation.<br>
+**UI/UX:** Combines react-chessboard for the board and custom components for mode selection, game status, and popups.<br>
 
-## Fork the repository.
-Create a new branch: git checkout -b feature/your-feature.
-Commit your changes: git commit -m "Add your feature".
-Push to the branch: git push origin feature/your-feature.
-Open a Pull Request.
-Please read our Contributing Guidelines for more details.
+## 🤝 Contributing
+Contributions are welcome! Whether it's adding new features, fixing bugs, or improving the AI, your input can make ChessMaster even better. 
+To contribute:<br>
+Fork the repository.<br>
+Create a new branch: git checkout -b feature/your-feature.<br>
+Commit your changes: git commit -m "Add your feature".<br>
+Push to the branch: git push origin feature/your-feature.<br>
+Open a Pull Request.<br>
+
+Please read our Contributing Guidelines for more details.<br>
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit.
