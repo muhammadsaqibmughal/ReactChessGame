@@ -4,7 +4,7 @@
 ChessMaster is an interactive, feature-rich chess game built with React, offering both single-player (vs. AI) and two-player modes. With a sleek UI, persistent game state using localStorage, and robust game logic powered by chess.js, this project delivers a seamless chess experience for casual players and enthusiasts alike. Whether you're challenging the computer at varying difficulty levels or competing against a friend, ChessMaster combines modern web technologies with classic gameplay.
 
 ## 🚀 Features
-**Single-Player Mode:** Play against an AI opponent with adjustable difficulty levels, powered by intelligent move evaluation.
+**Single-Player Mode:** Play against an AI opponent with adjustable difficulty levels, powered by intelligent move evaluation."\n"
 **Two-Player Mode:** Enjoy head-to-head matches on the same device, perfect for local multiplayer.
 **Persistent State: **Game progress is saved to localStorage, allowing you to resume exactly where you left off after a page refresh.
 **Pawn Promotion:** Seamlessly handle pawn promotions with an intuitive dialog for selecting pieces (queen, rook, bishop, knight).
