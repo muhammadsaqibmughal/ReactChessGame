@@ -63,8 +63,6 @@ Open a Pull Request.<br>
 
 Please read our Contributing Guidelines for more details.<br>
 
-## 📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit.
 
 ## 🌟 Why ChessMaster?
 ChessMaster is not just a game—it's a showcase of modern web development with React, state management, and persistent storage. Whether you're a developer looking to study a well-structured React project or a chess enthusiast wanting a polished gaming experience, ChessMaster has something for you. Try it out, contribute, or use it as inspiration for your own projects!
